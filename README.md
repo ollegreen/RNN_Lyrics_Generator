@@ -6,7 +6,7 @@ Just click the button below to get to the colab notebook.
 
 ## What is this?
 
-It's a text generator by Max Wolf where we can generate text which is similar to the to the text we feed into the neural network.
+It's a text generator by Max Wolf where we can generate text which is similar to the to the text we feed into the neural network (inn this case the text file: "lyrics.txt".
 
 My idea was to feed it lyrics by John Mayer to hopefully get some lovely and cheezy lyrics for us to enjoy, and boy did it deliver some weird cheesy text. You can find my output in the text doc: "MayerOutpuLyrics". 
 
