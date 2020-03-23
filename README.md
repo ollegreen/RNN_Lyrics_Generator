@@ -10,9 +10,9 @@ It's a text generator by Max Wolf where we can generate text which is similar to
 
 My idea was to feed it lyrics by John Mayer to hopefully get some lovely and cheezy lyrics for us to enjoy, and boy did it deliver some weird cheesy text. You can find my output in the text doc: "MayerOutpuLyrics". 
 
-Try it out and use it with your favourite artists lyrics, enjoy. 
+Try it out and use it with your favourite artists lyrics. Could recommend this site for some fun times combining the text with the wonders of text-to-speech voices. 
 
-Cheers.
+Cheers & Enjoy.
 
 Br,
 Olle 
