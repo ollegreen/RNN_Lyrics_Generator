@@ -12,9 +12,6 @@ My idea was to feed it lyrics by John Mayer to hopefully get some lovely and che
 
 Try it out and use it with your favourite artists lyrics. Could recommend this site for some fun times combining the text with the wonders of text-to-speech voices: https://www.naturalreaders.com/online/
 
-**Cheers & Enjoy!**
-
-Br,
-Olle 
+**Cheers.**
 
 ![image](https://i.pinimg.com/originals/ec/3d/29/ec3d29c72ae7c499e102c21daaa4ef2e.jpg)
